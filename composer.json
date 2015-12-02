@@ -1,6 +1,6 @@
 {
-    "name": "mendoframework/pdo",
-    "description": "Mendo PDO Component",
+    "name": "gobline/pdo",
+    "description": "Gobline PDO Component",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -9,13 +9,13 @@
         }
     ],
     "keywords": [
-        "mf", "mendoframework", "mendo framework",
+        "gobline", 
         "pdo", "db", "database", "dbal"
     ],
-    "homepage": "https://github.com/mendoframework",
+    "homepage": "https://github.com/gobline",
     "autoload": {
         "psr-4": {
-            "Mendo\\Pdo\\": "src/"
+            "Gobline\\Pdo\\": "src/"
         }
     },
     "require": {
